@@ -1,0 +1,7 @@
+header {
+    height: 100px;
+    width: 100%;
+    /* Sets border to bottom only */
+    border-bottom: 5px solid goldenrod;
+    background-color: green;
+  }
